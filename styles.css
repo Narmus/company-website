@@ -1,0 +1,69 @@
+/* Header navbar Stylings */
+#navCollapse a {
+  border-bottom: 1px solid #e3fdfd;
+  font-size: 2rem;
+  background-color: #71c9ce;
+  text-decoration: none;
+  color: white;
+}
+
+#navCollapse a:hover {
+  color: black;
+  background-color: #e3fdfd;
+}
+
+.regLog {
+  text-align: center;
+}
+
+/* Journey section */
+.journey {
+  background-color: #e3fdfd;
+  text-align: center;
+}
+
+.journey p {
+  text-align: center;
+}
+
+/* Support Section */
+.support {
+  background-color: #e3fdfd;
+}
+
+/* Footer Section */
+footer {
+  background-color: #222831;
+  font-size: 2rem;
+  text-align: center;
+}
+.footer .main {
+  text-decoration: none;
+  color: white;
+  border-bottom: 1px solid #e3fdfd;
+}
+
+.footer .sub,
+.footer p {
+  font-size: 1.25rem;
+  text-decoration: none;
+  color: white;
+}
+
+.social-media a {
+  font-size: 2rem;
+  text-decoration: none;
+  color: white;
+}
+
+/* Test section */
+#homePanel .carousel-inner {
+  height: 200px;
+}
+#successStories .carousel-inner {
+  height: 300px;
+  background-color: #71c9ce;
+}
+/* * {
+  background-color: black;
+} */

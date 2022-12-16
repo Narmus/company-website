@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/company-website/static/js/main.15e9ae43.js",
+    "static/media/dark.jpg": "/company-website/static/media/dark.a063038dc9a50608dbac.jpg",
+    "static/media/grey.jpg": "/company-website/static/media/grey.4fb1b18a397138321b86.jpg",
+    "index.html": "/company-website/index.html",
+    "main.15e9ae43.js.map": "/company-website/static/js/main.15e9ae43.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.15e9ae43.js"
+  ]
+}
